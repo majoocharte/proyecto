@@ -5,4 +5,4 @@ para personas que no saben por donde empezar. Los usuarios podrán seleccionar e
 detalladas, personalizar su rutina según sus necesidades y llevar un registro de su progreso a lo largo del tiempo
  
  # ¿qué hace el código?
- hjahdksjd
+ El código se encarga de identificar el área que se quiere trabajar en el gimnasio, y así 
