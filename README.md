@@ -1,4 +1,4 @@
-# el proyecto
+## proyecto starbucks / a01707709
 
 ## contexto
 Este proyecto simula una interacción en Starbucks, encargándose de la gestión de la tienda y realizando varias funciones para la venta de los productos. El usuario escoge lo que quiere comprar con las especificaciones que sean necesarias, y en base a eso se genera su pedido y se le cobra la factura.
