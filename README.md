@@ -11,3 +11,7 @@ En este programa no se pueden borrar productos del pedido una vez que fueron agr
 
 Solamente se ofrecen los productos que se ofrecen en el menú. 
 
+## correcciones
+Implementé las secciones faltantes del programa, de todas las sub-competencias.
+
+
