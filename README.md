@@ -1,8 +1,6 @@
 # el proyecto
-El problema que se busca resolver es la incertidumbre de las personas que no tienen experiencia para ir al gimnasio, es decir que 
-con el programa se definirían los diferentes tipos de músculos que tenemos, y a partir de ahí desarrollar un entrenamiento personalizado 
-para personas que no saben por donde empezar. Los usuarios podrán seleccionar el músculo que desean trabajar, recibir recomendaciones de ejercicios 
-detalladas, personalizar su rutina según sus necesidades y llevar un registro de su progreso a lo largo del tiempo
+Este proyecto simula una interacción en Starbucks, encargándose de la gestión de la tienda y realizando varias funciones. El usuario hace un pedido con las especificaciones que sean necesarias, y en base a eso cobra la factura.
+
  
  # ¿qué hace el código?
- El código se encarga de identificar el área que se quiere trabajar en el gimnasio, y así 
+ El código empieza dándole la bienvenida al usuario y pidiendo datos básicos. Después vas a poder realizar tu pedido de comida y/o bebida, personalizando los productos para que cada usuario tome el café como le gusta.
