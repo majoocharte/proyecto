@@ -112,7 +112,7 @@ int main() {
     cin >> metodoPago;
 
     // Mostrar la información del pedido
-    Factura factura1(nombreCliente, metodoPago, 0, pedido);
+    Factura factura1(nombreCliente, metodoPago, propinaAgregada, pedido);
     factura1.imprimeFactura();
   }
   return 0;
